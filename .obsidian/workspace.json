@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMakeLists.txt.md",
+                "file": "Initial-setup/CMakeLists.txt.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,10 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5097fd2616fe6a0f",
+  "active": "ea92483b58cb6a68",
   "lastOpenFiles": [
     "Welcome.md",
-    "CMakeLists.txt.md",
+    "Initial-setup/CMakeLists.txt.md",
     "Initial-setup"
   ]
 }
