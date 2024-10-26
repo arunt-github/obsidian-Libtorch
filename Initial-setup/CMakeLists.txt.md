@@ -1,4 +1,4 @@
-
+CMake is a build system gen.
 `cmake_minimum_required(VERSION 3.2)`
 `project(torch_test)         #project name`
 `set(CMAKE_PREFIX_PATH "/libtorch")`
